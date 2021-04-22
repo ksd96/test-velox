@@ -1,0 +1,14 @@
+@import "./__list/appointments-more__list.scss";
+@import "./__item/appointments-more__item.scss";
+@import "./__button-back/appointments-more__button-back.scss";
+@import "./__wrapper/appointments-more__wrapper.scss";
+
+.appointments-more {
+  display: flex;
+  flex-direction: column;
+
+  height: 100%;
+
+  padding-left: 13px;
+  padding-right: 40px;
+}

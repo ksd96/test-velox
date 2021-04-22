@@ -1,0 +1,12 @@
+.calendar__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  min-height: 63px;
+  box-sizing: border-box;
+
+  background: #FFFFFF;
+
+  padding: 10px;
+}

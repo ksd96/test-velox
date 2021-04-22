@@ -1,0 +1,21 @@
+.sidebar__button {
+  width: calc(100% - 40px);
+  height: 40px;
+  box-sizing: border-box;
+
+  background: #7761FF;
+
+  border: none;
+  border-radius: 5px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #FFFFFF;
+
+  margin: 0 20px;
+
+  cursor: pointer;
+}

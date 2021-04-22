@@ -1,0 +1,20 @@
+@import "./__title/medical-card__title.scss";
+@import "./__list/medical-card__list.scss";
+@import "./__item/medical-card__item.scss";
+@import "./__icon-container/medical-card__icon-container.scss";
+@import "./__wrapper/medical-card__wrapper.scss";
+@import "./__name/medical-card__name.scss";
+@import "./__text/medical-card__text.scss";
+@import "./__item/_info/medical-card__item_info.scss";
+@import "./__icon-container/_info/medical-card__icon-container_info.scss";
+@import "./__name/_info/medical-card__name_info.scss";
+@import "./__item-list/medical-card__item-list.scss";
+@import "./__text/_info/medical-card__text_info.scss";
+
+.medical-card {
+  display: flex;
+  flex-direction: column;
+
+  padding-left: 20px;
+  padding-right: 60px;
+}

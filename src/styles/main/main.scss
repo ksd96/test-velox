@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  flex-direction: column;
+
+  background: #FCFCFC;
+
+  height: calc(100vh - 55px);
+
+  overflow: auto;
+}

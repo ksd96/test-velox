@@ -1,0 +1,17 @@
+@import "./__logo/sidebar__logo.scss";
+@import "./__button/sidebar__button.scss";
+@import "./__wrapper/sidebar__wrapper.scss";
+@import "./__link/sidebar__link.scss";
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+
+  background: #003B72;
+
+  width: 190px;
+  height: 100vh;
+  box-sizing: border-box;
+  
+  overflow: auto;
+}

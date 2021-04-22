@@ -1,0 +1,16 @@
+@import "./__title/appointments__title.scss";
+@import "./__wrapper/appointments__wrapper.scss";
+@import "./__list/appointments__list.scss";
+@import "./__item/appointments__item.scss";
+@import "./__more/appointments__more.scss";
+@import "./__more-text/appointments__more-text.scss";
+@import "./__link/appointments__link.scss";
+
+.appointments {
+  display: flex;
+  flex-direction: column;
+
+  padding-left: 20px;
+  padding-right: 60px;
+  margin-bottom: 20px;
+}

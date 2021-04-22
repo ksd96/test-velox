@@ -1,0 +1,13 @@
+.appointments-more__item {
+  margin-bottom: 15px;
+
+  width: 100%;
+  max-width: 475px;
+  box-sizing: border-box;
+
+  margin-left: 5px;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

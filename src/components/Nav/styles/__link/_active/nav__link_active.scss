@@ -1,0 +1,10 @@
+.nav__link_active {
+  background-color: #fcfcfc;
+  color: #7761ff;
+
+  border-left: 2.5px solid #7761ff;
+
+  & svg {
+    fill: #7761ff;
+  }
+}

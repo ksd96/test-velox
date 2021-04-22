@@ -1,0 +1,8 @@
+const COUNT_CARDS_TO_RENDER = 2;
+
+const FORMAT_DATE = {
+  APPOINTMENT_CARD: "dddd DD.MM.YY | hh:mm",
+  CALENDAR_TITLE: "MMMM, YYYY"
+};
+
+export { COUNT_CARDS_TO_RENDER, FORMAT_DATE };

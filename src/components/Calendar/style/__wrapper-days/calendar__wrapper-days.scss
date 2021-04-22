@@ -1,0 +1,8 @@
+.calendar__wrapper-days {
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+
+  padding: 0 10px;
+  margin: 0;
+  list-style: none;
+}

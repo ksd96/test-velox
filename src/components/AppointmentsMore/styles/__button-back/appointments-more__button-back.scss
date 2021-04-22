@@ -1,0 +1,24 @@
+.appointments-more__button-back {
+  display: flex;
+  align-items: center;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  text-decoration: none;
+
+  margin: 0;
+  padding: 15px 0;
+  margin-left: 20px;
+
+  &::before {
+    content: url("../../img/icon-back.svg");
+
+    width: 18px;
+    height: 14px;
+
+    margin-right: 14px;
+  }
+}

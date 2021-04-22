@@ -1,0 +1,22 @@
+.sidebar__link {
+  display: flex;
+  align-items: center;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #FFFFFF;
+  text-decoration: none;
+
+  margin: 0;
+  padding: 0;
+  margin-bottom: 18px;
+
+  &::before {
+    content: url("../../img/icon-help.svg");
+    width: 18px;
+    height: 18px;
+    margin-right: 14px;
+  }
+}

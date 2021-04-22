@@ -1,0 +1,11 @@
+.appointments-more__list {
+  overflow: auto;
+
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  height: calc(100% - 20px);
+  width: 45%;
+  box-sizing: border-box;
+}

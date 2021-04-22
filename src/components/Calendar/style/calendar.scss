@@ -1,0 +1,25 @@
+@import "./__wrapper-top/calendar__wrapper-top.scss";
+@import "./__title/calendar__title.scss";
+@import "./__button/calendar__button.scss";
+@import "./__wrapper-days/calendar__wrapper-days.scss";
+@import "./__day/calendar__day.scss";
+@import "./__list/calendar__list.scss";
+@import "./__item/calendar__item.scss";
+@import "./__number/calendar__number.scss";
+@import "./__count/calendar__count.scss";
+@import "./__item/_no-active/calendar__item_no-active.scss";
+@import "./__number/_no-active/calendar__number_no-active.scss";
+@import "./__count/_no-active/calendar__count_no-active.scss";
+
+.calendar {
+  display: flex;
+  flex-direction: column;
+
+  background: #EBE7FF;
+  border-radius: 5px;
+
+  width: 51%;
+  height: calc(100% - 124px);
+
+  margin-left: 40px;
+}

@@ -1,0 +1,21 @@
+@import "./__date/appointment__date.scss";
+@import "./__place/appointment__place.scss";
+@import "./__wrapper/appointment__wrapper.scss";
+@import "./__doctor/appointment__doctor.scss";
+@import "./__doctor-photo/appointment__doctor-photo.scss";
+@import "./__doctor-info/appointment__doctor-info.scss";
+@import "./__doctor-name/appointment__doctor-name.scss";
+@import "./__department/appointment__department.scss";
+@import "./__button/appointment__button.scss";
+
+.appointment {
+  display: flex;
+  flex-direction: column;
+
+  padding: 20px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 0px 5px #EBE7FF;
+
+  border-radius: 5px;
+}

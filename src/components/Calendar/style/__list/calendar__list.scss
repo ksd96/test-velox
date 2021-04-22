@@ -1,0 +1,12 @@
+.calendar__list {
+  display: grid;
+  grid-template-columns: repeat(7, auto);
+  grid-template-rows: repeat(6, 63px);
+
+  margin: 0;
+  padding: 0 10px;
+  margin-bottom: 10px;
+  list-style: none;
+
+  overflow: auto;
+}

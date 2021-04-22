@@ -1,0 +1,25 @@
+@import "./normalize.scss";
+@import "./fonts/fonts.scss";
+@import "./page/page.scss";
+@import "./main/main.scss";
+
+body {
+  font-family: "Rubik", "Arial", sans-serif;
+}
+
+/* Размеры скроллбара */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+/* Трек поле скроллбара */
+::-webkit-scrollbar-track {
+  background: #EBE7FF;
+  border-radius: 5px;
+}
+
+/* Ползунок скроллбара */
+::-webkit-scrollbar-thumb {
+  background: #003B72;
+  border-radius: 5px;
+}

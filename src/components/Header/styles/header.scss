@@ -1,0 +1,18 @@
+@import "./__title/header__title.scss";
+@import "./__wrapper/header__wrapper.scss";
+@import "./__buttons-list/header__buttons-list.scss";
+@import "./__item/header__item.scss";
+@import "./__button/header__button.scss";
+@import "./__profile/header__profile.scss";
+@import "./__user-image/header__user-image.scss";
+@import "./__profile-more/header__profile-more.scss";
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 0 40px;
+
+  background: #50CAFF;
+}

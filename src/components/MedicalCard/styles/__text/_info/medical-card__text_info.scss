@@ -1,0 +1,23 @@
+.medical-card__text_info {
+  display: flex;
+  align-items: center;
+  
+  margin-bottom: 7px;
+
+  &::before {
+    content: "";
+
+    width: 4px;
+    height: 4px;
+
+    border-radius: 50%;
+
+    background: #50CAFF;
+
+    margin-right: 11px;
+  }
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}

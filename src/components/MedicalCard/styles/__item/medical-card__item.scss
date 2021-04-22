@@ -1,0 +1,18 @@
+.medical-card__item {
+  display: flex;
+  align-items: center;
+
+  width: calc(50% - 8px);
+  box-sizing: border-box;
+
+  margin-right: 16px;
+  margin-bottom: 15px;
+
+  background: #FFFFFF;
+  box-shadow: 0px 0px 5px #EBE7FF;
+  border-radius: 5px;
+
+  &:nth-child(2n) {
+    margin-right: 0;
+  }
+}
