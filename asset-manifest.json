@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/guitar-react/test-velox/static/css/main.b7138153.chunk.css",
+    "main.js": "/guitar-react/test-velox/static/js/main.10791fb9.chunk.js",
+    "main.js.map": "/guitar-react/test-velox/static/js/main.10791fb9.chunk.js.map",
+    "runtime-main.js": "/guitar-react/test-velox/static/js/runtime-main.af721874.js",
+    "runtime-main.js.map": "/guitar-react/test-velox/static/js/runtime-main.af721874.js.map",
+    "static/js/2.b6181660.chunk.js": "/guitar-react/test-velox/static/js/2.b6181660.chunk.js",
+    "static/js/2.b6181660.chunk.js.map": "/guitar-react/test-velox/static/js/2.b6181660.chunk.js.map",
+    "index.html": "/guitar-react/test-velox/index.html",
+    "static/css/main.b7138153.chunk.css.map": "/guitar-react/test-velox/static/css/main.b7138153.chunk.css.map",
+    "static/js/2.b6181660.chunk.js.LICENSE.txt": "/guitar-react/test-velox/static/js/2.b6181660.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/guitar-react/test-velox/static/media/Rubikmedium.a19994e4.woff",
+    "static/media/icon-add.873d901e.svg": "/guitar-react/test-velox/static/media/icon-add.873d901e.svg",
+    "static/media/appointments-more.scss": "/guitar-react/test-velox/static/media/icon-back.6edb44c4.svg",
+    "static/media/icon-bell.cb0013f4.svg": "/guitar-react/test-velox/static/media/icon-bell.cb0013f4.svg",
+    "static/media/icon-card.647a8956.svg": "/guitar-react/test-velox/static/media/icon-card.647a8956.svg",
+    "static/media/icon-down.d2a1f39a.svg": "/guitar-react/test-velox/static/media/icon-down.d2a1f39a.svg",
+    "static/media/icon-eye.f2e1f481.svg": "/guitar-react/test-velox/static/media/icon-eye.f2e1f481.svg",
+    "static/media/sidebar.scss": "/guitar-react/test-velox/static/media/icon-help.08d1d542.svg",
+    "static/media/icon-history.4e04b49f.svg": "/guitar-react/test-velox/static/media/icon-history.4e04b49f.svg",
+    "static/media/icon-lab.3182e261.svg": "/guitar-react/test-velox/static/media/icon-lab.3182e261.svg",
+    "static/media/icon-left.392fa63f.svg": "/guitar-react/test-velox/static/media/icon-left.392fa63f.svg",
+    "static/media/icon-right.00c2d17b.svg": "/guitar-react/test-velox/static/media/icon-right.00c2d17b.svg",
+    "static/media/icon-search.5bda1d8f.svg": "/guitar-react/test-velox/static/media/icon-search.5bda1d8f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af721874.js",
+    "static/js/2.b6181660.chunk.js",
+    "static/css/main.b7138153.chunk.css",
+    "static/js/main.10791fb9.chunk.js"
+  ]
+}
