@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-velox/static/css/main.2cf14298.chunk.css",
-    "main.js": "/test-velox/static/js/main.3fcf5484.chunk.js",
-    "main.js.map": "/test-velox/static/js/main.3fcf5484.chunk.js.map",
+    "main.js": "/test-velox/static/js/main.b0641e0e.chunk.js",
+    "main.js.map": "/test-velox/static/js/main.b0641e0e.chunk.js.map",
     "runtime-main.js": "/test-velox/static/js/runtime-main.cb743c74.js",
     "runtime-main.js.map": "/test-velox/static/js/runtime-main.cb743c74.js.map",
     "static/js/2.b6181660.chunk.js": "/test-velox/static/js/2.b6181660.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.cb743c74.js",
     "static/js/2.b6181660.chunk.js",
     "static/css/main.2cf14298.chunk.css",
-    "static/js/main.3fcf5484.chunk.js"
+    "static/js/main.b0641e0e.chunk.js"
   ]
 }
